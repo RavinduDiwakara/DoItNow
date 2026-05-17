@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_background">#1B4322</color>
+    <color name="icon_background">#E9F5E9</color>
+    <color name="login_background">#F1F8F1</color>
+    <color name="button_color">#1B4322</color>
+    <color name="text_hint">#808080</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#757575</color>
+    <color name="accent_green">#1B4322</color>
+
+    <color name="priority_low_bg">#E9F5E9</color>
+    <color name="priority_low_text">#1B4322</color>
+    <color name="priority_med_bg">#FFF3E0</color>
+    <color name="priority_med_text">#EF6C00</color>
+    <color name="priority_high_bg">#FFEBEE</color>
+    <color name="priority_high_text">#C62828</color>
+
+    <color name="delete_red">#E57373</color>
+    <color name="nav_active_bg">#E9F5E9</color>
+    <color name="nav_active_purple">#F3E5F5</color>
+    <color name="dialog_background">#F3EDF7</color>
+</resources>

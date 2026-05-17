@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">DoitNow</string>
+    <string name="splash_slogan">GET THINGS DONE</string>
+    <string name="app_version">v 1.0.0</string>
+
+    <string name="welcome_back">Welcome back 👋</string>
+    <string name="sign_in_to_account">Sign in to your account</string>
+    <string name="username_hint">USERNAME</string>
+    <string name="email_hint">EMAIL</string>
+    <string name="password_hint">PASSWORD</string>
+    <string name="confirm_password_hint">CONFIRM PASSWORD</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="dont_have_account">Don\'t have an account? </string>
+    <string name="have_account">Have an account? </string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="create_account">Create account</string>
+    <string name="join_doitnow">Join DoitNow today</string>
+    <string name="create_account_btn">Create Account</string>
+
+    <string name="my_tasks">My Task</string>
+    <string name="welcome_user">Hi, %1$s!</string>
+    <string name="tasks_left">3 left</string>
+    <string name="total_tasks">Total</string>
+    <string name="done_tasks">Done</string>
+    <string name="pending_tasks">Pending</string>
+    <string name="task_title_placeholder">Buy groceries for dinner</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_med">Med</string>
+    <string name="priority_high">High</string>
+    <string name="tasks_nav">Tasks</string>
+    <string name="developer_nav">Developer</string>
+    <string name="profile_nav">Profile</string>
+
+    <string name="add_new_task">Add new task</string>
+    <string name="task_input_hint">What needs to be done?</string>
+    <string name="priority_label">PRIORITY</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_task">Add Task</string>
+
+    <string name="about_developer">About Developer</string>
+    <string name="dev_name">NAME : Ravindu Diwakara</string>
+    <string name="dev_student_no">STUDENT NO : 2023T01857</string>
+    <string name="dev_statement">STATEMENT: I love building apps</string>
+    <string name="release_version">RELEASE: v 1.0.0 - Stable</string>
+
+    <string name="my_profile">My Profile</string>
+    <string name="user_name_placeholder">name_here</string>
+    <string name="active_member">Active Member</string>
+    <string name="email_placeholder">sample@gmail.com</string>
+    <string name="edit_info">Edit Info.</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_out_confirm_msg">Really want to sign out?</string>
+    <string name="ok">OK</string>
+    <string name="edit">Edit</string>
+    <string name="username">username</string>
+    <string name="email">Email</string>
+</resources>
