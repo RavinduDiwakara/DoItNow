@@ -36,9 +36,5 @@ Student No: 2023T01857
 *"I love building apps"*
 
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 *Version 1.0.0 - Stable Release*
